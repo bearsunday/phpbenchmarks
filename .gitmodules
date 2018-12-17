@@ -1,0 +1,6 @@
+[submodule "symfony"]
+	path = symfony
+	url = https://github.com/phpbenchmarks/symfony.git
+[submodule "bearsunday"]
+	path = bearsunday
+	url = https://github.com/bearsunday/BEAR.HelloworldBenchmark
